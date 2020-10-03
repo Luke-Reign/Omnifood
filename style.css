@@ -34,11 +34,15 @@ header,
   width: 120px;
 }
 
-.fas,
-.far {
+.features-fa {
   color:  rgba(255, 145, 0, 0.61) ;
   font-size: 70px;
   margin-bottom: 20px;
+}
+
+.cities-fa {
+  color:  rgb(255, 145, 0) ;
+  font-size: 20px;
 }
 
 .col{
@@ -62,6 +66,11 @@ header,
   font: 32px Arial, sans-serif;
   float: left;
   margin-right: 30px;
+}
+
+.twitter-link{
+  color:  rgba(255, 145, 0, 0.986);
+  border-bottom: 1px solid rgba(255, 145, 0, 0.822);
 }
 
 /* html,
