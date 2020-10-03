@@ -1,5 +1,10 @@
 .intro-2 {
-  background: url("resources/css/img/hero-min.jpg")no-repeat center center;
+  background: url("resources/css/img/hero-min.jpg")no-repeat center;
+  background-size: cover;
+}
+
+.intro-1 {
+  background: url("resources/css/img/back-customers-min.jpg")no-repeat center;
   background-size: cover;
 }
 
@@ -71,6 +76,10 @@ header,
 .twitter-link{
   color:  rgba(255, 145, 0, 0.986);
   border-bottom: 1px solid rgba(255, 145, 0, 0.822);
+}
+
+.fa-quote-left{
+  float: left;
 }
 
 /* html,
