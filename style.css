@@ -40,7 +40,7 @@ header,
 }
 
 .features-fa {
-  color:  rgba(255, 145, 0, 0.61) ;
+  color:  rgba(255, 145, 0, 0.925) ;
   font-size: 70px;
   margin-bottom: 20px;
 }
@@ -48,6 +48,10 @@ header,
 .cities-fa {
   color:  rgb(255, 145, 0) ;
   font-size: 20px;
+}
+
+.contacts-fa {
+  color:  rgb(255, 145, 0) ;
 }
 
 .col{
