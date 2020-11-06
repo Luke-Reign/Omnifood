@@ -30,7 +30,7 @@ To setup follow these steps:
 * The project now belongs to you
 
 ## Demo
-Here is a working live demo of Pizza Lords:
+Here is a working live demo of Omnifood:
 https://luke-reign.github.io/Omnifood/
 
 ## Contributions
